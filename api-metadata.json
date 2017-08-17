@@ -280,7 +280,7 @@
     },
     "hide": {
       "minArgs": 0,
-      "maxArgs": 0
+      "maxArgs": 1
     },
     "setIcon": {
       "minArgs": 1,
@@ -288,7 +288,7 @@
     },
     "show": {
       "minArgs": 0,
-      "maxArgs": 0
+      "maxArgs": 1
     }
   },
   "runtime": {
